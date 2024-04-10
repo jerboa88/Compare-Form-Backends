@@ -22,8 +22,14 @@
 
 ## Open source and self-hostable
 
-| Provider | Sites | Forms | Submissions | Email Addresses | Custom Redirect Page | Direct replies | Domain Whitelist | File Attachments | Auto Responder | Spam Protection | Integrations | Webhooks | Standalone | Notes |
-| -------- | ----- | ----- | ----------- | --------------- | -------------------- | -------------- | ---------------- | ---------------- | -------------- | --------------- | ------------ | -------- | ---------- | ----- |
+| Provider        | Sites | Forms | Submissions | Email Addresses | Custom Redirect Page | Direct replies | Domain Whitelist | File Attachments | Auto Responder | Spam Protection | Integrations | Webhooks | Standalone | Notes |
+| --------------- | ----- | ----- | ----------- | --------------- | -------------------- | -------------- | ---------------- | ---------------- | -------------- | --------------- | ------------ | -------- | ---------- | ----- |
+| [Formbase]      | 🛠️     | 🛠️     | 🛠️           | 🛠️               | 🛠️                    | 🛠️              | 🛠️                | 🛠️                | 🛠️              | 🛠️               | 🛠️            | 🛠️        | 🛠️          | 🛠️     |
+| [formie]        | 🛠️     | 🛠️     | 🛠️           | 🛠️               | 🛠️                    | 🛠️              | 🛠️                | 🛠️                | 🛠️              | 🛠️               | 🛠️            | 🛠️        | 🛠️          | 🛠️     |
+| [Formify]       | 🛠️     | 🛠️     | 🛠️           | 🛠️               | 🛠️                    | 🛠️              | 🛠️                | 🛠️                | 🛠️              | 🛠️               | 🛠️            | 🛠️        | 🛠️          | 🛠️     |
+| [MailBear]      | 🛠️     | 🛠️     | 🛠️           | 🛠️               | 🛠️                    | 🛠️              | 🛠️                | 🛠️                | 🛠️              | 🛠️               | 🛠️            | 🛠️        | 🛠️          | 🛠️     |
+| [Openformstack] | 🛠️     | 🛠️     | 🛠️           | 🛠️               | 🛠️                    | 🛠️              | 🛠️                | 🛠️                | 🛠️              | 🛠️               | 🛠️            | 🛠️        | 🛠️          | 🛠️     |
+
 
 
 ## Free
