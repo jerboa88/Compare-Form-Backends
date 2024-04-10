@@ -18,9 +18,18 @@
 </div>
 
 
+# About
+
+Want to add a contact form to your Jamstack or static site? Form backend services can help you do that.
+
+This repository is a comparison of free form backend services for static sites. It includes a list of services, their features, and limitations. The list is divided into two sections: open-source and self-hostable services, and free plans from popular form backend providers.
+
+
 # Plans
 
 ## Open source and self-hostable
+
+Open source form backends that you can host yourself. These services usually have an instance available for public use as well. If there are usage limits that apply to this instance, they will be in the table below.
 
 | Provider        | Sites | Forms | Submissions | Email Addresses | Custom Redirect Page | Direct replies | Domain Whitelist | File Attachments | Auto Responder | Spam Protection | Integrations | Webhooks | Standalone | Notes |
 | --------------- | ----- | ----- | ----------- | --------------- | -------------------- | -------------- | ---------------- | ---------------- | -------------- | --------------- | ------------ | -------- | ---------- | ----- |
@@ -33,6 +42,8 @@
 
 
 ## Free
+
+Free plans from popular font backend providers. Trial plans are also included in this section as long as they are not time-limited.
 
 | Provider        | Plan                        | Sites | Forms | Submissions | Email Addresses | Custom Redirect Page | Direct replies | Domain Whitelist | File Attachments | Auto Responder | Spam Protection | Integrations | Webhooks | Standalone | Notes |
 | --------------- | --------------------------- | ----- | ----- | ----------- | --------------- | -------------------- | -------------- | ---------------- | ---------------- | -------------- | --------------- | ------------ | -------- | ---------- | ----- |
@@ -75,7 +86,7 @@
 | Column                   | Description                                                                                                                                                                                                  |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Provider**             | The provider name                                                                                                                                                                                            |
-| **Plan**                 | The name of the plan, since some providers have multiple plans. We include trial plans in the free section if they are not time-limited                                                                      |
+| **Plan**                 | The name of the plan, since some providers have multiple plans.                                                                                                                                              |
 | **Price**                | How much the plan costs                                                                                                                                                                                      |
 | **Sites**                | The maximum number of sites you can add forms to                                                                                                                                                             |
 | **Forms**                | The maximum number of forms you can create                                                                                                                                                                   |
@@ -104,7 +115,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 [99Inbound]: https://www.99inbound.com/
 [Basin]: https://usebasin.com/
-[FieldGoal]: https://fieldgoal.io/
 [Form.taxi]: https://form.taxi/
 [FormBackend]: https://www.formbackend.com/
 [Formbase]: https://beta.formbase.dev/
