@@ -24,9 +24,7 @@ Want to add a contact form to your [Jamstack](https://jamstack.wtf/) or static s
 
 This repository is a comparison of free form backend services for static sites. It includes a list of services, their features, and limitations. The list is divided into two sections: open-source and self-hostable services, and free plans from popular form backend providers.
 
-This list is not exhaustive, and there may be other services available that are not listed here. If you find any inaccuracies or have suggestions, feel free to open an issue or submit a pull request.
-
-We aim to make this list as accurate as possible, but keep in mind that features and pricing may change over time. Refer to the providers' websites for the most up-to-date information.
+This list is not exhaustive, and there may be other services available that are not listed here. If you find any inaccuracies or have suggestions, feel free to open an issue or submit a pull request. We aim to make this list as accurate as possible, but keep in mind that features and pricing may change over time. Refer to the providers' websites for the most up-to-date information.
 
 
 # Plans
@@ -35,13 +33,13 @@ We aim to make this list as accurate as possible, but keep in mind that features
 
 Open source form backends that you can host yourself. These services usually have an instance available for public use as well. If there are usage limits that apply to this instance, they will be in the table below.
 
-| Provider        | Sites | Forms | Submissions | Email Addresses | Custom Redirect Page | Direct replies | Domain Whitelist | File Attachments | Auto Responder | Spam Protection | Integrations | Webhooks | Standalone | Notes |
-| --------------- | ----- | ----- | ----------- | --------------- | -------------------- | -------------- | ---------------- | ---------------- | -------------- | --------------- | ------------ | -------- | ---------- | ----- |
-| [Formbase]      | 🛠️     | 🛠️     | 🛠️           | 🛠️               | 🛠️                    | 🛠️              | 🛠️                | 🛠️                | 🛠️              | 🛠️               | 🛠️            | 🛠️        | 🛠️          | 🛠️     |
-| [formie]        | 🛠️     | 🛠️     | 🛠️           | 🛠️               | 🛠️                    | 🛠️              | 🛠️                | 🛠️                | 🛠️              | 🛠️               | 🛠️            | 🛠️        | 🛠️          | 🛠️     |
-| [Formify]       | 🛠️     | 🛠️     | 🛠️           | 🛠️               | 🛠️                    | 🛠️              | 🛠️                | 🛠️                | 🛠️              | 🛠️               | 🛠️            | 🛠️        | 🛠️          | 🛠️     |
-| [MailBear]      | 🛠️     | 🛠️     | 🛠️           | 🛠️               | 🛠️                    | 🛠️              | 🛠️                | 🛠️                | 🛠️              | 🛠️               | 🛠️            | 🛠️        | 🛠️          | 🛠️     |
-| [Openformstack] | 🛠️     | 🛠️     | 🛠️           | 🛠️               | 🛠️                    | 🛠️              | 🛠️                | 🛠️                | 🛠️              | 🛠️               | 🛠️            | 🛠️        | 🛠️          | 🛠️     |
+|        Provider | Sites | Forms | Submissions | Email Addresses | Custom Redirect Page | Direct replies | Auto Responder | File Attachments | Domain Whitelist | Spam Protection | Email Notifications | Integrations | Webhooks | Standalone |                                                            Notes                                                            |
+| --------------: | :---: | :---: | :---------: | :-------------: | :------------------: | :------------: | :------------: | :--------------: | :--------------: | :-------------: | :-----------------: | :----------: | :------: | :--------: | :-------------------------------------------------------------------------------------------------------------------------: |
+|      [Formbase] |   🤔   |   🤔   |      🤔      |        🤔        |          🤔           |       🤔        |       ⛔        |        ✅         |        🤔         |        ⛔        |          ✅          |      ⛔       |    ⛔     |     🤔      | No documentation available. Spam protection, third-party integrations, and auto responses are apparently a work in progress |
+|        [formie] |   🛠️   |   🛠️   |      🛠️      |        🛠️        |          🛠️           |       🛠️        |       🛠️        |        🛠️         |        🛠️         |    reCAPTCHA    |                     |      🛠️       |    🛠️     |     🛠️      |                                                              🛠️                                                              |
+|       [Formify] |   🛠️   |   🛠️   |      🛠️      |        🛠️        |          🛠️           |       🛠️        |       🛠️        |        🛠️         |        🛠️         |        🛠️        |                     |      🛠️       |    🛠️     |     🛠️      |                                                              🛠️                                                              |
+|      [MailBear] |   🛠️   |   🛠️   |      🛠️      |        🛠️        |          🛠️           |       🛠️        |       🛠️        |        🛠️         |        🛠️         |        🛠️        |                     |      🛠️       |    🛠️     |     🛠️      |                                                              🛠️                                                              |
+| [Openformstack] |   🛠️   |   🛠️   |      🛠️      |        🛠️        |          🛠️           |       🛠️        |       🛠️        |        🛠️         |        🛠️         |        🛠️        |                     |      🛠️       |    🛠️     |     🛠️      |                                                              🛠️                                                              |
 
 
 
