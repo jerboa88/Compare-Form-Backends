@@ -19,7 +19,23 @@
 
 
 # Plans
-TODO
+
+## Open source and self-hostable
+
+| Provider | Sites | Forms | Submissions | Email Addresses | Custom Redirect Page | Direct replies | Domain Whitelist | File Attachments | Auto Responder | Spam Protection | Integrations | Webhooks | Standalone | Notes |
+| -------- | ----- | ----- | ----------- | --------------- | -------------------- | -------------- | ---------------- | ---------------- | -------------- | --------------- | ------------ | -------- | ---------- | ----- |
+
+
+## Free
+
+| Provider        | Plan | Sites | Forms | Submissions | Email Addresses | Custom Redirect Page | Direct replies | Domain Whitelist | File Attachments                  | Auto Responder | Spam Protection                                                                                  | Integrations                                   | Webhooks | Standalone | Notes                |
+
+
+## Paid
+
+| Provider | Plan | Price | Sites | Forms | Submissions | # of Email Addresses | Custom Redirect Page | Direct replies | Domain Whitelist | File Attachments | Auto Responder | Spam Protection | Integrations | Webhooks | Standalone | Notes |
+| -------- | ---- | ----- | ----- | ----- | ----------- | -------------------- | -------------------- | -------------- | ---------------- | ---------------- | -------------- | --------------- | ------------ | -------- | ---------- | ----- |
+
 
 # Legend
 
