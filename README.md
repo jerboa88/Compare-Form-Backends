@@ -20,7 +20,7 @@
 
 # About
 
-Want to add a contact form to your Jamstack or static site? Form backend services can help you do that.
+Want to add a contact form to your [Jamstack](https://jamstack.wtf/) or static site? Form backend services can help you do that.
 
 This repository is a comparison of free form backend services for static sites. It includes a list of services, their features, and limitations. The list is divided into two sections: open-source and self-hostable services, and free plans from popular form backend providers.
 
