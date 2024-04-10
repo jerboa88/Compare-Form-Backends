@@ -76,7 +76,34 @@
 
 Contributions, issues, and forks are welcome.
 
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+
+[99Inbound]: https://www.99inbound.com/
+[Basin]: https://usebasin.com/
+[FieldGoal]: https://fieldgoal.io/
+[Form.taxi]: https://form.taxi/
+[FormBackend]: https://www.formbackend.com/
+[Formbase]: https://beta.formbase.dev/
+[Formcake]: https://formcake.com/
+[Formcarry]: https://formcarry.com/
+[formie]: https://formie.dev/
+[Formify]: https://formify.vercel.app/
+[FormKeep]: https://formkeep.com/
+[Formspark]: https://www.formspark.io/
+[Formspree]: https://formspree.io/
+[FormSubmit]: https://formsubmit.co/
+[formX]: https://formx.stream/
+[Getform]: https://getform.io/
+[Heyform]: https://heyform.net/
+[Jamform]: https://jamform.com/
+[KwesForms]: https://kwesforms.com/
+[MailBear]: https://github.com/DenBeke/mailbear
+[Netlify Forms]: https://www.netlify.com/platform/core/forms/
+[Openformstack]: https://openformstack.com/
+[Pageclip]: https://pageclip.co/
+[Static Forms]: https://www.staticforms.xyz/
+[Tally]: https://tally.so/
+[Un-static]: https://un-static.com/
