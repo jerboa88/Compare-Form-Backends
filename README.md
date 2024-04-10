@@ -18,12 +18,42 @@
 </div>
 
 
-## Plans
+# Plans
 TODO
 
+# Legend
 
-## Legend
-TODO
+## Symbols
+
+| Symbol | Description                                            |
+| ------ | ------------------------------------------------------ |
+| ✅      | This feature is supported                              |
+| ⛔      | This feature is not supported                          |
+| 🤔      | Feature support is unclear                             |
+| 🛠️      | Feature support is unclear. This is a work in progress |
+
+
+## Columns
+
+| Column                   | Description                                                                                                                                                                                                  |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Provider**             | The provider name                                                                                                                                                                                            |
+| **Plan**                 | The name of the plan, since some providers have multiple plans                                                                                                                                               |
+| **Price**                | How much the plan costs                                                                                                                                                                                      |
+| **Sites**                | The maximum number of sites you can add forms to                                                                                                                                                             |
+| **Forms**                | The maximum number of forms you can create                                                                                                                                                                   |
+| **Submissions**          | The number of form submissions allowed per month. This is usually a per month, but some services give you a fixed amount of form submissions. Keep in mind that spam submissions may count toward this limit |
+| **Email Addresses**      | The number of outbound email addresses you can add (for notifications)                                                                                                                                       |
+| **Custom Redirect Page** | Whether a custom redirect page can be specified for after the form is submitted                                                                                                                              |
+| **Direct replies**       | Whether the service supports replying to the submitter directly by replying to the notification email                                                                                                        |
+| **Domain Whitelist**     | Whether the service allows you to specify domains that are allowed to send form submissions. This is useful to prevent spam submissions                                                                      |
+| **File Attachments**     | Whether submitting files in forms is allowed                                                                                                                                                                 |
+| **Auto Responder**       | Whether the service allows sending an automated email to the submitter confirming form submission                                                                                                            |
+| **Spam Protection**      | Supported spam prevention methods, if any                                                                                                                                                                    |
+| **Webhooks**             | Whether the service supports [webhooks](https://en.wikipedia.org/wiki/Webhook)                                                                                                                               |
+| **Integrations**         | Supported third-party integrations                                                                                                                                                                           |
+| **Standalone**           | Whether the form backend depends on a specific service                                                                                                                                                       |
+| **Notes**                | Other information                                                                                                                                                                                            |
 
 
 ## Contributing
