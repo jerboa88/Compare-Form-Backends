@@ -1,0 +1,9 @@
+{
+  "$schema": "https://johng.io/schema/project-metadata.json",
+  "name": "Compare Form Backends",
+  "background": "A Markdown document comparing various form backend services. Created while doing my own research on these services, this document helps users choose the best solution for their needs.",
+	"category": "Document",
+  "languages": [
+		"Markdown"
+  ],
+}
