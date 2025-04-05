@@ -10,7 +10,7 @@
     </a>
   </p>
 
-  <p class="projectDesc" data-exposition="A Markdown document comparing various form backend services. Created while doing my own research on these services, this document helps users choose the best solution for their needs.">
+  <p class="projectDesc">
       A comparison of free form backend services for static sites
   </p>
 
