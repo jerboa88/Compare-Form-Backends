@@ -18,7 +18,7 @@
 </div>
 
 
-# About
+## 👋 About
 
 Want to add a contact form to your [Jamstack](https://jamstack.wtf/) or static site? Form backend services can help you do that.
 
@@ -27,9 +27,9 @@ This repository is a comparison of free form backend services for static sites. 
 This list is not exhaustive, and there may be other services available that are not listed here. If you find any inaccuracies or have suggestions, feel free to open an issue or submit a pull request. We aim to make this list as accurate as possible, but keep in mind that features and pricing may change over time. Refer to the providers' websites for the most up-to-date information.
 
 
-# Plans
+## ⚖️ Plans
 
-## Open source and self-hostable
+### Open source and self-hostable
 
 Open source form backends that you can host yourself. These services usually have an instance available for public use as well. If there are usage limits that apply to this instance, they will be in the table below.
 
@@ -42,7 +42,7 @@ Open source form backends that you can host yourself. These services usually hav
 | [OpenformStack] |   🤔   |   🤔   |      🤔      |        🤔        |           🤔           |          ✅           |       🤔        |       ✅        |        🤔         |        🤔         |     ByeSpam     |       ✅       |          ✅          | Yes, unknown |    🤔     |         ⛔          |     ✅      | No documentation available. Sign in with Google required                                                                      |
 
 
-## Free
+### Free
 
 Free plans from popular font backend providers. Trial plans are also included in this section as long as they are not time-limited.
 
@@ -70,9 +70,9 @@ Free plans from popular font backend providers. Trial plans are also included in
 |     [Un-static] |            Free             |   🛠️   |   ∞   | 25 / month  |        🛠️        |           🛠️           |          🛠️           |       🛠️        |       🛠️        |                 🛠️                 |        🛠️         |                                                🛠️                                                 |       🛠️       |          🛠️          |                       🛠️                        |    🛠️     |         🛠️          |     ✅      | 🛠️     |       |       |       |
 
 
-# Legend
+## 🗺️ Legend
 
-## Symbols
+### Symbols
 
 | Symbol | Description                                            |
 | ------ | ------------------------------------------------------ |
@@ -82,7 +82,7 @@ Free plans from popular font backend providers. Trial plans are also included in
 | 🛠️      | Feature support is unclear. This is a work in progress |
 
 
-## Columns
+### Columns
 
 | Column                   | Description                                                                                                                                                                                                  |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -105,12 +105,12 @@ Free plans from popular font backend providers. Trial plans are also included in
 | **Notes**                | Other information                                                                                                                                                                                            |
 
 
-## Contributing
+## 🤝Contributing
 
 Contributions, issues, and forks are welcome.
 
 
-## License
+## 🧾 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
